@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Evan</h1>
+<h1 align="left">👋 Hi there</h1>
 <h3 align="left">My name is Evan and I'm an aspiring Full Stack Web Developer. I'm passionate about learning as much as I can about development. On this page you'll see my journey as I go from making simple static web pages to functioning web applications.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
